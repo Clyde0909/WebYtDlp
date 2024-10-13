@@ -1,0 +1,8 @@
+# default ignore for python
+*.pyc
+
+# ignore the virtualenv
+venv/
+
+# default ignore for node
+node_modules/
