@@ -6,3 +6,10 @@ venv/
 
 # default ignore for node
 node_modules/
+.lock
+
+# ignore the database
+*.db
+
+# ignore the logs
+nohup.out
